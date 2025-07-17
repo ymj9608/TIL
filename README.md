@@ -8,6 +8,7 @@
 # git push origin master : 깃허브에 보내기
 # git pull origin master : 깃허브에서 가져오기
 # git clone <링크> : 링크 프로젝트 복사하기
+# git 
 
 ## CLI
 
